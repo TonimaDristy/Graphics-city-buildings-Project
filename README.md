@@ -1,17 +1,21 @@
 🎬 Animated Village–City Scene using OpenGL (C++)
 
-Built an interactive 2D graphical scene featuring:
+ 📸 Demo
 
-🌅 Rising sun animation
+<p align="center">
+  <img src="https://github.com/TonimaDristy/Graphics-city-buildings-Project/raw/main/Screenshot%202026-04-20%20222536.png" width="600"/>
+</p>
 
-🌊 Flowing river effect
+ 📝 Description
 
-🚗 Keyboard-controlled vehicle movement
+An interactive 2D graphical scene built using **OpenGL (C++)**, showcasing dynamic animations and user-controlled elements.
 
- • Press D to start/stop the CNG vehicle
+✨ Features
+- 🌅 Rising sun animation  
+- 🌊 Flowing river effect  
+- 🚗 Keyboard-controlled vehicle movement  
+- 🏡 Village-to-city environment design  
 
- • Press A to start/stop the car
-
-🏡 Village-to-city environment design.
-
- [Project Demo](https://github.com/TonimaDristy/Graphics-city-buildings-Project/blob/main/Screenshot%202026-04-20%20222536.png)
+ ⌨ Controls
+- Press **D** → Start/Stop the CNG vehicle  
+- Press **A** → Start/Stop the car  
